@@ -1,0 +1,5 @@
+IEEE ajustada.....
+margenes: 25cm lado
+fuente: times new roman
+tamano
+doi : identificacion que tiene cada paper
